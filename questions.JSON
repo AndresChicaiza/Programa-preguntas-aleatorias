@@ -1,0 +1,202 @@
+[
+  {
+    "pregunta": "¿Qué es una red de computadoras?",
+    "opciones": [
+      "Un conjunto de dispositivos interconectados para compartir recursos e información",
+      "Un programa que ejecuta tareas automáticamente",
+      "Una computadora individual sin conexión",
+      "Un sistema operativo para servidores"
+    ],
+    "respuesta": "Un conjunto de dispositivos interconectados para compartir recursos e información"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes dispositivos se encarga de interconectar diferentes redes?",
+    "opciones": [
+      "Switch",
+      "Router",
+      "Hub",
+      "Repetidor"
+    ],
+    "respuesta": "Router"
+  },
+  {
+    "pregunta": "¿Qué capa del modelo OSI es responsable de la transmisión física de datos?",
+    "opciones": [
+      "Capa de enlace de datos",
+      "Capa de transporte",
+      "Capa física",
+      "Capa de red"
+    ],
+    "respuesta": "Capa física"
+  },
+  {
+    "pregunta": "¿Cuál es la unidad básica de datos en la capa de red del modelo OSI?",
+    "opciones": [
+      "Trama",
+      "Paquete",
+      "Bit",
+      "Segmento"
+    ],
+    "respuesta": "Paquete"
+  },
+  {
+    "pregunta": "¿Qué protocolo se utiliza para asignar direcciones IP automáticamente?",
+    "opciones": [
+      "DNS",
+      "HTTP",
+      "DHCP",
+      "FTP"
+    ],
+    "respuesta": "DHCP"
+  },
+  {
+    "pregunta": "¿Cuál es la dirección IP de loopback (retorno a sí mismo)?",
+    "opciones": [
+      "192.168.0.1",
+      "127.0.0.1",
+      "255.255.255.0",
+      "0.0.0.0"
+    ],
+    "respuesta": "127.0.0.1"
+  },
+  {
+    "pregunta": "¿Qué hace el protocolo ARP?",
+    "opciones": [
+      "Traduce direcciones IP a direcciones MAC",
+      "Transfiere archivos entre computadoras",
+      "Encripta la información de red",
+      "Administra direcciones DNS"
+    ],
+    "respuesta": "Traduce direcciones IP a direcciones MAC"
+  },
+  {
+    "pregunta": "¿Qué tipo de red cubre un área pequeña como una casa o una oficina?",
+    "opciones": [
+      "MAN",
+      "WAN",
+      "LAN",
+      "PAN"
+    ],
+    "respuesta": "LAN"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes opciones es una dirección IPv6 válida?",
+    "opciones": [
+      "192.168.0.256",
+      "2001:0db8:85a3:0000:0000:8a2e:0370:7334",
+      "127.0.0.256",
+      "255.255.255.256"
+    ],
+    "respuesta": "2001:0db8:85a3:0000:0000:8a2e:0370:7334"
+  },
+  {
+    "pregunta": "¿Qué función cumple un servidor DNS?",
+    "opciones": [
+      "Asigna direcciones IP a dispositivos",
+      "Traduce nombres de dominio en direcciones IP",
+      "Administra archivos compartidos en red",
+      "Encripta la comunicación entre clientes"
+    ],
+    "respuesta": "Traduce nombres de dominio en direcciones IP"
+  },
+  {
+    "pregunta": "¿Qué capa del modelo OSI se encarga del control de flujo y detección de errores?",
+    "opciones": [
+      "Capa de transporte",
+      "Capa de red",
+      "Capa de sesión",
+      "Capa de aplicación"
+    ],
+    "respuesta": "Capa de transporte"
+  },
+  {
+    "pregunta": "¿Qué tipo de cable utiliza conectores RJ45?",
+    "opciones": [
+      "Fibra óptica",
+      "Cable coaxial",
+      "Cable de par trenzado",
+      "Cable HDMI"
+    ],
+    "respuesta": "Cable de par trenzado"
+  },
+  {
+    "pregunta": "¿Cuál es la velocidad máxima teórica de un puerto Fast Ethernet?",
+    "opciones": [
+      "10 Mbps",
+      "100 Mbps",
+      "1 Gbps",
+      "10 Gbps"
+    ],
+    "respuesta": "100 Mbps"
+  },
+  {
+    "pregunta": "¿Qué dispositivo amplifica la señal en una red?",
+    "opciones": [
+      "Switch",
+      "Router",
+      "Repetidor",
+      "Bridge"
+    ],
+    "respuesta": "Repetidor"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes protocolos es seguro para transferir archivos?",
+    "opciones": [
+      "FTP",
+      "HTTP",
+      "SFTP",
+      "Telnet"
+    ],
+    "respuesta": "SFTP"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes elementos identifica de forma única un dispositivo en la red?",
+    "opciones": [
+      "Su nombre de usuario",
+      "Su dirección MAC",
+      "Su dirección de gateway",
+      "Su puerto TCP"
+    ],
+    "respuesta": "Su dirección MAC"
+  },
+  {
+    "pregunta": "¿Qué estándar define las redes inalámbricas Wi‑Fi?",
+    "opciones": [
+      "IEEE 802.11",
+      "IEEE 802.3",
+      "IEEE 802.15",
+      "IEEE 802.16"
+    ],
+    "respuesta": "IEEE 802.11"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes comandos sirve para comprobar la conectividad entre dos equipos?",
+    "opciones": [
+      "ipconfig",
+      "ping",
+      "tracert",
+      "netstat"
+    ],
+    "respuesta": "ping"
+  },
+  {
+    "pregunta": "¿Qué dispositivo separa dominios de colisión en una red Ethernet?",
+    "opciones": [
+      "Hub",
+      "Switch",
+      "Repetidor",
+      "Módem"
+    ],
+    "respuesta": "Switch"
+  },
+  {
+    "pregunta": "¿Qué capa del modelo OSI maneja el enrutamiento de paquetes?",
+    "opciones": [
+      "Capa física",
+      "Capa de red",
+      "Capa de transporte",
+      "Capa de enlace"
+    ],
+    "respuesta": "Capa de red"
+  }
+]
